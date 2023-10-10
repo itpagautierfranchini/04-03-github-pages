@@ -31,3 +31,11 @@ We've created an easy-to-follow guide that will help you get started with using 
 Our team is made up of four talented individuals who have worked tirelessly to create this amazing API. Get to know them by reading their bios below.
 
 [Click here to meet the team](MEET_THE_TEAM.md)
+
+## GFI
+
+![gfi](images/600x400_ffffff_5F9EA0_meet-the-team.png)
+
+super test here.
+
+[Click here to meet the team](gfi.md)
